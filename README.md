@@ -1,3 +1,3 @@
-# generator-mktwo-badge
-A generator for the mktwo-badge
-More to come...
+# mktwo-hello-world
+A simple mktwo badge hello world app
+
