@@ -8,4 +8,4 @@ This program is a very stripped down "Hello World" web page hosted on the badge.
 
 You can use the Arduino IDE. It's not the most user friendly environment, but it's the least painful to setup. I use [Visual Studio Code](https://code.visualstudio.com/) with the [Arduino Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino). This still requires the Arduino IDE, and unfortunatly, at this time, the Arduino Extension does not work fully with the portable installation of the Arduino IDE. 
 
-![Hello World](https://raw.githubusercontent.com/eric-john-miller/mktwo-hello-world/master/IMG_8124.PNG | width=100).
+[(https://raw.githubusercontent.com/eric-john-miller/mktwo-hello-world/master/IMG_8124.PNG | width=100)]
