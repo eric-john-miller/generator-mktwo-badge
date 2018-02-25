@@ -3,26 +3,30 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WiFi\\src",
-                "C:\\Users\\ericj\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel",
-                "C:\\Users\\ericj\\Documents\\Arduino\\libraries\\WiFiManager",
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\DNSServer\\src",
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266mDNS",
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WebServer\\src",
-                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266HTTPUpdateServer\\src"
+                "D:\\projects\\mktwo-hello-world",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WiFi\\src",
+                "D:\\arduino\\portable\\sketchbook\\libraries\\Adafruit_NeoPixel",
+                "D:\\arduino\\portable\\sketchbook\\libraries\\WiFiManager",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\DNSServer\\src",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266mDNS",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WebServer\\src",
+                "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266HTTPUpdateServer\\src",
+                "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": false,
                 "path": [
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WiFi\\src",
-                    "C:\\Users\\ericj\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel",
-                    "C:\\Users\\ericj\\Documents\\Arduino\\libraries\\WiFiManager",
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\DNSServer\\src",
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266mDNS",
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WebServer\\src",
-                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266HTTPUpdateServer\\src"
+                    "D:\\projects\\mktwo-hello-world",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WiFi\\src",
+                    "D:\\arduino\\portable\\sketchbook\\libraries\\Adafruit_NeoPixel",
+                    "D:\\arduino\\portable\\sketchbook\\libraries\\WiFiManager",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\DNSServer\\src",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266mDNS",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266WebServer\\src",
+                    "D:\\arduino\\portable\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\libraries\\ESP8266HTTPUpdateServer\\src",
+                    "C:\\Users\\ericj\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266"
                 ]
             },
             "intelliSenseMode": "msvc-x64"
